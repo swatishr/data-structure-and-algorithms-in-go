@@ -4,3 +4,5 @@ This is a repo for personal learning where I track different data structures and
 
 - Linked List
   - [Singly Linked List](linkedlist/singly_linked_list.go)
+- Stack
+  - [Implementation](stack/stack_impl.go)
